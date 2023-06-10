@@ -5,7 +5,7 @@ Sitio web de comercio electrónico
 Un sitio web de comercio electrónico realizado con el framework React.js.
 
 Demo
-https://646845636ec56d513fb271a2--astonishing-duckanoo-f92f5f.netlify.app/checkout
+- https://646845636ec56d513fb271a2--astonishing-duckanoo-f92f5f.netlify.app/checkout
 
 Características
 Fácil de integrar con el backend
@@ -13,16 +13,16 @@ Totalmente receptivo (responsive)
 Ejecución local
 
 Clonar el proyecto
-git clone https://github.com/luis8v/Ecommerce-react
+- git clone https://github.com/luis8v/Ecommerce-react
 
 Ir al directorio del proyecto
-cd React_E-Commerce
+- cd React_E-Commerce
 
 Instalar dependencias
-npm install
+- npm install
 
 Iniciar el servidor
-npm start
+- npm start
 
 Stack tecnológico
 React
