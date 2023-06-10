@@ -5,7 +5,7 @@ Sitio web de comercio electrónico
 Un sitio web de comercio electrónico realizado con el framework React.js.
 
 Demo
-- https://646845636ec56d513fb271a2--astonishing-duckanoo-f92f5f.netlify.app/checkout
+- (https://ecommerce-nemotec.web.app)
 
 Características
 Fácil de integrar con el backend
